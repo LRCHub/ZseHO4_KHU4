@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OSK Lover",
+  "base_artist": "999dobby",
+  "createdAt": "2026-03-06T13:00:42.646033Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OSK Lover",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/pl_01_OSK_Lover_999dobby.txt"
+    }
+  ]
+}
